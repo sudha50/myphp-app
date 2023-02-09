@@ -5,7 +5,7 @@
 <h1>My first PHP page</h1>
 
 <?php
-echo "version 3";
+echo "version 4";
 ?> 
 
 </body>
